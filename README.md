@@ -1,2 +1,2 @@
 # Snake
-tentaive de snake
+tentative de snake
